@@ -40,7 +40,7 @@ super(frameText);
 
 int tempX=TOPX, y=TOPY;
 displayLabel.setBounds(tempX,y,240,HEIGHT);
-displayLabel.setBackground(Color.RED);
+displayLabel.setBackground(Color.ORANGE);
 displayLabel.setForeground(Color.BLACK);
 add(displayLabel);
 
